@@ -1,0 +1,46 @@
+{
+  "addTodo": {
+    "validationMessageDateLessThanCurrent": "Date can not be less than current date",
+    "validationMessageDescription": "Description needs to be in range [0;128]",
+    "validationMessageInvalidDate": "Date is invalid",
+    "validationMessageName": "Title of todo needs to be in range [1;50]"
+  },
+  "login": {
+    "loginButton": "Login",
+    "loginLabel": "Login",
+    "passwordLabel": "Password",
+    "registerLink": "Register",
+    "title": "Login",
+    "userDoesNotExist": "User does not exist!",
+    "validationMessage": "Only letters and numbers are allowed, and the length should be between 5 and 12 characters.",
+    "validationMessagePassword": "Password should be 8-12 long, and contain at least one number.",
+    "wrongPassword": "Wrong password!"
+  },
+  "register": {
+    "confirmPasswordLabel": "Confirm password",
+    "loginLabel": "Login",
+    "loginLink": "Login",
+    "passwordLabel": "Password",
+    "registerButton": "Register",
+    "title": "Register",
+    "userExists": "User already exists!",
+    "validationMessage": "Only letters and numbers are allowed, and the length should be between 5 and 12 characters.",
+    "validationMessageConfirmPassword": "Passwords do not match!",
+    "validationMessagePassword": "Password should be 8-20 long, and contain at least one number."
+  },
+  "todos": {
+    "addTodo": "Create",
+    "cancel": "Cancel",
+    "createTodo": "Create todo",
+    "editTodo": "Edit todo",
+    "editTodoBtn": "Edit",
+    "logout": "Logout",
+    "overview": "Overview",
+    "selectDate": "Choose date",
+    "today": "Today",
+    "todoDateTime": "Date and time",
+    "todoDescription": "Description",
+    "todoName": "Title",
+    "todos": "ToDo's"
+  }
+}

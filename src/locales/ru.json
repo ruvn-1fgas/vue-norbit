@@ -1,0 +1,46 @@
+{
+  "addTodo": {
+    "validationMessageDateLessThanCurrent": "Задача не может быть создана в прошлом",
+    "validationMessageDescription": "Длина описания должна быть в диапазоне [0;128]",
+    "validationMessageInvalidDate": "Неверная дата",
+    "validationMessageName": "Длина названия задачи должна быть в диапазоне [1;50]"
+  },
+  "login": {
+    "loginButton": "Войти",
+    "loginLabel": "Логин",
+    "passwordLabel": "Пароль",
+    "registerLink": "Регистрация",
+    "title": "Вход",
+    "userNotFound": "Пользователь не найден!",
+    "validationMessage": "Разрешены только буквы и цифры, длина должна быть от 5 до 12 символов.",
+    "validationMessagePassword": "Пароль должен содержать 8-12 символов и хотя бы одну цифру.",
+    "wrongPassword": "Неверный пароль!"
+  },
+  "register": {
+    "confirmPasswordLabel": "Подтвердите пароль",
+    "loginLabel": "Логин",
+    "loginLink": "Вход",
+    "passwordLabel": "Пароль",
+    "registerButton": "Зарегистрироваться",
+    "title": "Регистрация",
+    "userExists": "Пользователь с таким логином уже существует!",
+    "validationMessage": "Разрешены только буквы и цифры, длина должна быть от 5 до 12 символов.",
+    "validationMessageConfirmPassword": "Пароли не совпадают.",
+    "validationMessagePassword": "Пароль должен содержать 8-20 символов и хотя бы одну цифру."
+  },
+  "todos": {
+    "addTodo": "Создать",
+    "cancel": "Отмена",
+    "createTodo": "Создать задачу",
+    "editTodo": "Редактировать задачу",
+    "editTodoBtn": "Изменить",
+    "logout": "Выйти",
+    "overview": "Обзор",
+    "selectDate": "Выберите дату",
+    "today": "Сегодня",
+    "todoDateTime": "Дата и время",
+    "todoDescription": "Описание",
+    "todoName": "Название",
+    "todos": "Задачи"
+  }
+}
